@@ -1,4 +1,5 @@
 import { Equal, Expect } from "../helpers/type-utils";
+import { S } from "ts-toolbelt";
 
 type UserPath = "/users/:id";
 
